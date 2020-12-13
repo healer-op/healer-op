@@ -18,12 +18,8 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=healer-op&layout=compact)
 
 ## My Repos
-
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=vennfig&show_owner=true)](https://github.com/shinokada/vennfig)
-
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=statsfig&show_owner=true)](https://github.com/shinokada/statsfig)
-
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=covid-19-stats&show_owner=true)](https://github.com/shinokada/covid-19-stats)
+[![Pterodactyl-Installation-Update-Script](https://github-readme-stats.vercel.app/api/pin/?username=yhealer-op&repo=Pterodactyl-Installation-Update-Script)](https://github.com/healer-op/Pterodactyl-Installation-Update-Script)
+[![b10s-p4ss-r3s37](https://github-readme-stats.vercel.app/api/pin/?username=healer-op&repo=b10s-p4ss-r3s37)](https://github.com/healer-op/b10s-p4ss-r3s37)
 
 
 
