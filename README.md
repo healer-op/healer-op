@@ -170,6 +170,7 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 <p><img src="https://activity-graph.herokuapp.com/graph?username=healer-op&custom_title=healer-op's%20Contribution%20Graph&theme=react-dark" alt="healer-op"  /></p>
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+
 ![Metrics](https://metrics.lecoq.io/healer-op?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 
