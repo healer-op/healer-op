@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://wallpapercave.com/wp/wp1828902.png" alt="cover" />
+<img width="100%" src="https://cdna.artstation.com/p/assets/images/images/017/805/300/original/oliver-kriel-artist-at-desk-oliver-kriel-800px.gif?1557403709&dl=1" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
