@@ -134,10 +134,10 @@
 
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=healer-op&show_icons=true&locale=en&layout=compact" alt="healer-op" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=healer-op&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="healer-op" /></p>
 
 <h2> My Coding Streaks <img src="https://github.com/healer-op/HealCloud/blob/main/image/giphy.gif?raw=true" alt="healer-op"  width = '70px' /></h2>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=healer-op&" alt="healer-op" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=healer-op&theme=tokyonight" alt="healer-op" /></p>
 
 <h2> My Contribution <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 <p><img src="https://activity-graph.herokuapp.com/graph?username=healer-op&custom_title=healer-op's%20Contribution%20Graph&theme=react-dark" alt="healer-op"  /></p>
