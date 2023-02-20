@@ -10,6 +10,8 @@
 ![visitors](https://komarev.com/ghpvc/?username=healer-op&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/healer-op.svg?style=social&label=Followers)](https://github.com/healer-op?tab=followers)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/883174353204838490)](https://discord.com/users/883174353204838490)
+
 <div align="center">
 <img width="100%" src="https://cdna.artstation.com/p/assets/images/images/017/805/300/original/oliver-kriel-artist-at-desk-oliver-kriel-800px.gif?1557403709&dl=1" alt="cover" />
 </div>
